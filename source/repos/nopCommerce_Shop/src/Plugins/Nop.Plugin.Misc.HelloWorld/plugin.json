@@ -1,0 +1,9 @@
+{
+  "Group": "Misc",
+  "FriendlyName": "Hello World Plugin",
+  "SystemName": "Misc.HelloWorld",
+  "Version": "1.00",
+  "SupportedVersions": [ "5.00" ],
+  "Author": "Yeasin Arafat",
+  "DisplayOrder": 1
+}
